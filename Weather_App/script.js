@@ -40,4 +40,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function(event){
     }
 });
 
-weather.fetchWeather("Kolkata");
+weather.fetchWeather("Uttar Pradesh");
